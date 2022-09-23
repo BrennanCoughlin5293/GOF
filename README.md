@@ -1,2 +1,3 @@
 # GOF
-#If you see this, that is because the app is under maintenance! Hopefully it will be up soon, though!
+An app made by Brennan Coughlin to practice flips and have a competition between friends using different gamemodes! 
+Credit to Jesse Heffles for the app idea :)
