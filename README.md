@@ -1,3 +1,3 @@
-# GOF
-An app made by Brennan Coughlin to practice flips and have a competition between friends using different gamemodes! 
-Credit to Jesse Heffles for the app idea :)
+# Game of flip web app
+ripopff app i made because i couldnt afford an actual one
+kinda sucks but we move
